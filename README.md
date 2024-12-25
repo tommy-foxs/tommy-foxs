@@ -4,7 +4,7 @@
 
 <ul>
  <li>I enjoy calisthenics and making games in my free time. :weight_lifting: :video_game:</li>
- <li>I'm currently trying to imrpove my web development skills and grow my portfolio. :chart_with_upwards_trend:</li>
+ <li>I'm currently trying to improve my web development skills and grow my portfolio. :chart_with_upwards_trend:</li>
  <li>Did you know foxes are omnivores? :fox_face:</li>
 </ul>
 
